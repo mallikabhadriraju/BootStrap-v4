@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "Getting_Started"
+		},
+		{
+			"path": "Colors"
+		},
+		{
+			"path": "Typography"
+		},
+		{
+			"path": "SpacingUtilities"
+		},
+		{
+			"path": "Responsive-Breakpoints"
+		},
+		{
+			"path": "NavBars"
+		},
+		{
+			"path": "Display-Utility"
+		}
+	]
+}
